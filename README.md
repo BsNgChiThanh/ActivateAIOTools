@@ -11,6 +11,7 @@
 
 ## HƯỚNG DẪN ##
 
+### KÍCH HOẠT OFFICE: ###
 - **Có thể kích hoạt được Office 365 Mondo:**
   - Giao diện chính của tool hiện lên bạn nhấn Phím L để tiến hành Convert Office 365 ProPlus sang Office Mondo VL (Volume).
   - Từ Office 2016 trở đi bạn có thể Convert sang Office 365 Mondo.
@@ -37,7 +38,10 @@
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/3c422424-97bc-4d73-9cdf-8b1bc78d76cd)
   - Ở đây sẽ hiển thị là Office 2016 Mondo như mình đã đề cập ở trên. Tuy nhiên mọi tính năng trên Office 365 pro plus đều có đầy đủ.
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/beee6bc1-812c-472f-83f3-94a3cf85bd6c)
+- **Các office khác làm tương tự.**
+### KÍCH HOẠT WINDOWS: ###
 
+- Kích hoạt Windows và gia hạn Wiindows chúng ta làm tương tự.
 
 
 
