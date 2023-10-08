@@ -38,11 +38,32 @@
   - Ở đây sẽ hiển thị là Office 2016 Mondo như mình đã đề cập ở trên. Tuy nhiên mọi tính năng trên Office 365 pro plus đều có đầy đủ.
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/beee6bc1-812c-472f-83f3-94a3cf85bd6c)
 - **Các office khác làm tương tự.**
+#### ACTIVE OFFICE BY PHONE: ####
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/83b018c0-bcef-4e90-ba5b-02eb1e8fe0a4)
+- Bấm **I**
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/6170852b-15a2-49db-b2fb-250a2dcd6fff)
+- Chọn **3** (Office 2016, 2019, 2021, office 365 ta chọn số 3 đúng hết quí vị ạ)
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/e969d198-ca17-4750-90e0-58da82ca3a1d)
+- Nhập key và đánh enter:
+  - Một số key như:
+    - QMPN8-MMTJP-8XWGC-C3QK8-J8JPF
+    - 8H6GC-NF43M-8CV39-28QXB-B4KJK
+    - 93QKN-RJQ8F-9V8X2-JBCVT-C928K
+    - YMNBH-7XPR2-XWPR8-9PW8T-9K28K
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/26d2dd3b-97c5-4f7b-b482-eb28a229d52d)
+- Copy đoạn mã dán vào như hình sau:
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/ebd21143-9c95-4d9d-93e7-cba59b5d062a)
+- Đánh enter rồi xem kết quả:
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/2c4b80b0-12ff-4e95-aec4-95a22346782e)
+
+#### KIỂM TRA KÍCH HOẠT OFFICE: ####
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/be78b8db-2cc5-4124-8042-44d62682be2d)
+- Bấm phím **N**
 
 ### KÍCH HOẠT WINDOWS: ###
 - Kích hoạt Windows và gia hạn Wiindows chúng ta làm tương tự.
 
-### KIỂM TRA HẠN KÍCH HOẠT WINDOWS: ###
+#### KIỂM TRA HẠN KÍCH HOẠT WINDOWS: ####
 - Bấm phím Windows + R
 - Điền vào **Run** rồi enter
 - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/aeb429cb-dae5-43e6-8847-1f7c024f1d0f)
