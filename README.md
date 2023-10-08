@@ -2,6 +2,7 @@
 
 - Đây là một Tool kích hoạt windows và office rất hay.
 - Nó gia hạn kích hoạt tự động.
+- ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
 
 ## Download Tool [tại đây](https://1drv.ms/f/s!AkwSBX-xWiVhjWszo-4pM2IUu9W0?e=MXoqHr) hoặc [tại đây](https://terabox.com/s/1DUXMVLcXfoo6fn1nRE7XSQ), hoặc link dự phòng [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6gnqveaVoYJnOwJHj?e=bUlqCJ) ##
 
