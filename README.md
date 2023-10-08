@@ -67,6 +67,14 @@
 - Bấm **L**, sau đó lựa chọn phím cho phù hợp.
 - ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/d14c6843-1499-4034-9486-b64111e695c1)
 
+### XOÁ KEY OFFICE: ###
+- Bấm phím **M**
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/5938d99a-dbe2-4972-af9d-f5a0473e9c7b)
+- Nhập lựa chọn office cần xoá key:
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/30ab3511-f5dd-4525-825f-0c9a76d94a08)
+- Một bản thông báo hiện ra, bạn copy 5 kí tự cuối của key cần xoá rồi dán vào và đánh enter là xong.
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/692ad2f2-389b-4f90-9268-bdd3478a7c39)
+
 ### KÍCH HOẠT WINDOWS: ###
 - Kích hoạt Windows và gia hạn Wiindows chúng ta làm tương tự.
 
