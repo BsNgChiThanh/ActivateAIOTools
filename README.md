@@ -59,7 +59,13 @@
 
 #### KIỂM TRA KÍCH HOẠT OFFICE: ####
 - ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/be78b8db-2cc5-4124-8042-44d62682be2d)
-- Bấm phím **N**
+- Bấm phím **N**, sau đó nó sẽ hiện một bản thông báo cụ thể.
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/25b497d3-0966-4664-8d43-d45b738133cc)
+
+### CONVERT OFFICE: ###
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/b75bc19a-8e10-44df-a594-bae26f82c552)
+- Bấm **L**, sau đó lựa chọn phím cho phù hợp.
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/d14c6843-1499-4034-9486-b64111e695c1)
 
 ### KÍCH HOẠT WINDOWS: ###
 - Kích hoạt Windows và gia hạn Wiindows chúng ta làm tương tự.
