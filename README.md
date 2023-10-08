@@ -10,7 +10,6 @@
 - Download về làm theo hướng dẫn dưới đây:
 
 ## HƯỚNG DẪN ##
-
 ### KÍCH HOẠT OFFICE: ###
 - **Có thể kích hoạt được Office 365 Mondo:**
   - Giao diện chính của tool hiện lên bạn nhấn Phím L để tiến hành Convert Office 365 ProPlus sang Office Mondo VL (Volume).
@@ -39,10 +38,17 @@
   - Ở đây sẽ hiển thị là Office 2016 Mondo như mình đã đề cập ở trên. Tuy nhiên mọi tính năng trên Office 365 pro plus đều có đầy đủ.
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/beee6bc1-812c-472f-83f3-94a3cf85bd6c)
 - **Các office khác làm tương tự.**
-### KÍCH HOẠT WINDOWS: ###
 
+### KÍCH HOẠT WINDOWS: ###
 - Kích hoạt Windows và gia hạn Wiindows chúng ta làm tương tự.
 
-
-
-
+### KIỂM TRA HẠN KÍCH HOẠT WINDOWS: ###
+- Bấm phím Windows + R
+- Điền vào **Run** rồi enter
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/aeb429cb-dae5-43e6-8847-1f7c024f1d0f)
+- Copy và dán đoạn lệnh **CD C:\Windows\System32** rồi bấm enter
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/a412a204-25da-4d30-935c-18ab993c46d4) 
+- Tiếp tục dán đoạn **slmgr/xpr** vào và đánh enter
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/a59b03ce-be83-4c35-9f68-038dbfa33afa)
+- ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/8b846979-a8fc-41b9-84ae-6cac900e75e9)
+- Vậy là Windows được active vĩnh viễn!
